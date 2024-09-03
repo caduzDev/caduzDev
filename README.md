@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-- 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS, .Lua, C#, React
+- 💬 Ask me about JavaScript, TypeScript, SQL, Node.JS, .Lua, C# & React
 - ⚡ Fun fact Oneye 😜
 </details>
 
