@@ -6,17 +6,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caduzDev&color=blue" alt="Profile views" /> </p>
 
 <!-- Presentation -->
+## 🔥 Skills
 <p>
-  ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)
   
+  ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+  
 </p>
 
 <!-- Dropdown -->
@@ -40,21 +41,5 @@
 <p align="right">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  </div>
 
 [![GitHub Caduz Developer]( https://img.shields.io/github/followers/caduzDev?label=follow&style=social)](https://github.com/caduzDev)
