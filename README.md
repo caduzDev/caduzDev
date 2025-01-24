@@ -3,6 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">  Hi 👋, Hello, nice to meet you, I'm Cadu.</h1></summary>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caduzDev&color=blue" alt="Profile views" /> </p>
 
 <!-- Presentation -->
 <p>
