@@ -23,7 +23,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-- 💬 Ask me about JavaScript, TypeScript, SQL, Node.JS, .Lua, C# & React
+- 💬 Ask me about JavaScript, TypeScript, SQL, Node.JS, .Lua, C#, React, Python, SQLite, PostgreSQL & MySQL
 - ⚡ Fun fact Oneye 😜
 </details>
 
@@ -56,3 +56,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   </div>
+
+[![GitHub Caduz Developer]( https://img.shields.io/github/followers/caduzDev?label=follow&style=social)](https://github.com/caduzDev)
