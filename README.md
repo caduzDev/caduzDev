@@ -7,11 +7,16 @@
 
 <!-- Presentation -->
 <p>
-  Junior Web Developer and Technology Enthusiast
-
-  - 🌱 Junior Developer and Enthusiast of Everything that sparks my curiosity
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  ![Lua](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)
+  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 </p>
 
 <!-- Dropdown -->
