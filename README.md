@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caduzDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
-<!-- Portfolio -->
-## Portfolio:
-
 <!-- GIF -->
 <p align="right">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
