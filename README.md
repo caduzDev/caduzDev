@@ -1,9 +1,11 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <a href="https://git.io/typing-svg">
+    <h1>
+  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=835&lines=Hi 👋, Hello, nice to meet you, %2C+I'm+Carlos+Eduardo!" alt="Typing SVG" />
   </a>
+</h1>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caduzDev&color=blue" alt="Profile views" /> </p>
 
