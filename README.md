@@ -3,6 +3,11 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">  Hi 👋, Hello, nice to meet you, I'm Cadu.</h1></summary>
 </div>
+    <h1>
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi%2C+I'm+Felipe+Augusto!" alt="Typing SVG" />
+  </a>
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caduzDev&color=blue" alt="Profile views" /> </p>
 
 <!-- Presentation -->
