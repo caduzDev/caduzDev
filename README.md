@@ -28,8 +28,10 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-- 💬 Ask me about JavaScript, TypeScript, SQL, Node.JS, .Lua, C#, React, Python, SQLite, PostgreSQL & MySQL
+- 🚀 Development languages: C++, Rust, Java, TypeScript, JavaScript, Lua, SQL, C#, React, Python, SQLite, PostgreSQL & MySQL
+- 💻 Web Development: HTML, CSS, JavaScript, React, Next.js, Nest.js, Node.js;
 - ⚡ Fun fact Oneye 😜
+- 🧥 I have experience with web development and applications back-and. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
 </details>
 
 <!-- GithubStats -->
