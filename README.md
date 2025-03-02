@@ -5,7 +5,7 @@
 </div>
     <h1>
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi%2C+I'm+Felipe+Augusto!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi 👋,  nice to meet you, %2C+I'm+Carlos+Eduardo!" alt="Typing SVG" />
   </a>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caduzDev&color=blue" alt="Profile views" /> </p>
