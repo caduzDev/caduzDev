@@ -2,7 +2,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <h1>
-  <a href="https://git.io/typing-svg">
  <summary>   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=635&lines=Hi 👋 %2C+I'm+Carlos+Eduardo!" alt="Typing SVG" /></summary>
   </a>
 </h1>
